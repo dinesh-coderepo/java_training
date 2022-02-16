@@ -6,7 +6,7 @@
 
     1. Basic Structure
     2. Variables - `Types`
-        - ** Primitive: **
+        - **Primitive:**
             - byte
             - short
             - char : `2 bytes`

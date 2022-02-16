@@ -2,4 +2,4 @@
 > here you can find my journey in to JAVA language.
 
 
-Java traning youtube video 1 : [youtube.com/watch?v=LusTv0RlnSU](youtube.com/watch?v=LusTv0RlnSU)
+Java traning youtube video 1 : [youtube.com/watch?v=LusTv0RlnSU](https://youtube.com/watch?v=LusTv0RlnSU)

@@ -18,6 +18,12 @@ public class FirstClass {
         String name = sc.nextLine();
         System.out.println(name);
 
+        Scanner pop = new Scanner(System.in);
+        int num1 = pop.nextInt();
+        int num2 = pop.nextInt();
+        int sum = num1 + num2;
+        System.out.println(sum);
+
 
     }
 }

@@ -1,4 +1,4 @@
-# java_training
+# Java Learning
 > here you can find my journey in to JAVA language.
 
 
@@ -15,4 +15,13 @@
             - long : `8 bytes`
             - float : `4 bytes`
             - double : `8 bytes`
+        - **Non Primitive:**
+            - String
+            - Array
+            - Class
+            - Object
+            - Interface
+    3. Input
+        `java.util.*` - Scanner object  with next() object
+    
 

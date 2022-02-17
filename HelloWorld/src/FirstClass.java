@@ -1,4 +1,4 @@
-import javax.sound.sampled.SourceDataLine;
+import java.util.*;
 
 public class FirstClass {
 
@@ -10,5 +10,14 @@ public class FirstClass {
         int b = 10;
         System.out.println(2*(a+b));
         System.out.println( SecondClass.Power(1, 49));
+        int mul = a * b;
+        System.out.println(mul);
+
+        //Input
+        Scanner sc = new Scanner(System.in);
+        String name = sc.nextLine();
+        System.out.println(name);
+
+
     }
 }

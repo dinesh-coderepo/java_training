@@ -4,8 +4,8 @@
 
 1. Java traning youtube video  : [youtube.com/watch?v=LusTv0RlnSU](https://youtube.com/watch?v=LusTv0RlnSU)
 
-    1. Basic Structure
-    2. Variables - `Types`
+    1. Basic Structure:
+    2. Variables: - `Types`
         - **Primitive:**
             - byte
             - short
@@ -21,7 +21,18 @@
             - Class
             - Object
             - Interface
-    3. Input
+    3. Input:
         `java.util.*` - Scanner object  with next() object
+    4. Conditional Statements:
+        - **if, else**
+        - **else if**
+        - **switch**
+        - **break**
+    5. Loops:
+        - **For Loop** :
+            - for Loop for (int i, i++,  )
+        - **While Loop**
+        - **Do while loop**
+    
     
 

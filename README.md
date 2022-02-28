@@ -2,7 +2,7 @@
 > here you can find my journey in to JAVA language.
 
 
-1. Java traning youtube video  : [youtube.com/watch?v=LusTv0RlnSU](https://youtube.com/watch?v=LusTv0RlnSU)
+1. Java traning youtube video  : [Play List Link](https://https://www.https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
 
     1. Basic Structure:
     2. Variables: - `Types`
@@ -30,7 +30,7 @@
         - **break**
     5. Loops:
         - **For Loop** :
-            - for Loop for (int i, i++,  )
+            - for Loop for (int i, conditions ,  increment)
         - **While Loop**
         - **Do while loop**
     

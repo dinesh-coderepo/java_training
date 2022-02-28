@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class FirstClass {
 
     public static void  main(String[] args){
@@ -18,7 +16,7 @@ public class FirstClass {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         System.out.println(name);*/
-
+/*
         Scanner pop = new Scanner(System.in);
         System.out.print("Input Number1: ");
         int num1 = pop.nextInt();
@@ -51,14 +49,27 @@ public class FirstClass {
             default : System.out.println("Other than 10");
 
         }
+        */
+        //Loops
 
-
-
-
-
-
-
-
+        // int looped = 10;
+        /*
+        for(int i =0 ; i < 20;i++){
+            System.out.print(i+"*" );
+        };*/
+        //Functions
+        String lol = "Hello";
+        System.out.println(lol);
+        Cmal("INR", 850000.0,"USD");
 
     }
+
+    static void Cmal (String from_currency,Double from_value ,String to_currency ) {
+        if (from_currency == "INR" && to_currency == "USD")
+        {
+            System.out.println("Random");
+            Double x = from_value/75;
+            System.out.println(x);
+        };
+    };
 }
